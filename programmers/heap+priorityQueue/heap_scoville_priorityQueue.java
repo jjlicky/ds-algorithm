@@ -15,7 +15,7 @@ public class heap_scoville_priorityQueue {
         	if (heap.size()==1 && heap.peek()<K) return -1;
         	if (heap.peek()>=K) break;
         	else {
-        		int a = heap.poll(); //Ã¹¹øÂ°°ª Á¦°ÅÇÏ°í ¹ÝÈ¯
+        		int a = heap.poll(); //ì²«ë²ˆì§¸ ê°’ ì œê±°í•˜ê³  ë°˜í™˜
         		int b = heap.poll();
         		
         		int result = a+(b*2);

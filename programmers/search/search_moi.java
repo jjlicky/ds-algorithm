@@ -5,7 +5,7 @@ public class search_moi {
 	
 	public static int[] solution(int[] answers) {
         
-		int[] answer = {};
+	int[] answer = {};
         int[] check1 = {1,2,3,4,5};
         int[] check2 = {2,1,2,3,2,4,2,5};
         int[] check3 = {3,3,1,1,2,2,4,4,5,5};
