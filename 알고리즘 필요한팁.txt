@@ -6,3 +6,5 @@
 ArrayList 요소 제거 : https://codechacha.com/ko/java-collections-arraylist-remove/
 
 ArrayList 배열 : https://mommoo.tistory.com/32
+
+string 자르기 : https://jamesdreaming.tistory.com/81
