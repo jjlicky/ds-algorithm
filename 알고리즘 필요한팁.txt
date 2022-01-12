@@ -1,0 +1,8 @@
+
+정규표현식 : https://sanghoo.tistory.com/28
+
+대소문자변환 : https://mozi.tistory.com/499
+
+ArrayList 요소 제거 : https://codechacha.com/ko/java-collections-arraylist-remove/
+
+ArrayList 배열 : https://mommoo.tistory.com/32
